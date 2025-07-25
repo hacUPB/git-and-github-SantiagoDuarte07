@@ -1,4 +1,4 @@
-#Uso consola
+# Uso consola
 Para moverte y crear cosas es usar cd para entrar a carpetas , y cd .. para volver atrás. Para ver lo que hay en una carpeta se utiliza ls. Para crear una nueva carpeta se escribe mkdir nombre_carpeta, y para hacer un archivo vacío se escribe touch archivo.txt. Se escribe mv para mover y rm para borrar archivos o carpetas. Con eso ya podemos organizar un proyecto desde la consola.
 
 ##Comandos basicos
@@ -24,4 +24,4 @@ git commit -m "Mensaje" → Guardar cambios con un mensaje
 
 git log → Ver el historial de commits
 
-![Foto codigo](../images/Uso_consola2.jpg)
+![Foto codigo](../images/USO_CONSOLA.jpg)
