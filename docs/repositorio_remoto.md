@@ -1,4 +1,4 @@
-#Como crear un repositorio remoto
+# Como crear un repositorio remoto
 
 Ve al sitio web de GitHub e inicia sesión.
 
@@ -35,3 +35,6 @@ Marca la rama principal como la predeterminada para trabajar.
 Cuando hagas cambios en tu proyecto, guárdalos localmente y luego súbelos a GitHub.
 
 Si hiciste cambios en GitHub o desde otro computador, puedes traerlos a tu carpeta local para que todo esté actualizado.
+
+
+![FOTOS CÓDIGOS](../images/REPOSITORIO_REMOTO.jpg)
