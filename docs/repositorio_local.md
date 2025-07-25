@@ -15,4 +15,4 @@ Agregá los archivos que querés guardar al área de preparación.
 
 Hacé tu primer commit con un mensaje que describa los cambios.
 
-![FOTO CÓDIGOS](..(..//
+![FOTO CÓDIGOS](../images/REPOSITORIO_LOCAL.jpg)
