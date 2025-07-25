@@ -1,7 +1,7 @@
 # ARCHIVO PARA COEVALUACIÓN DE LA UNIDAD 1
 
 Estudiante evaluado: FIGUEROA VELILLA, KARLA. 
-Link del repositorio: [LINK](https://github.com/hacUPB/git-and-github-JulianG26-08.git)
+Link del repositorio: [LINK](https://github.com/hacUPB/git-and-github-KarlaFigueroaV.git)
 
 |Criterio de evaluación|Puntaje|
 |---|---|
