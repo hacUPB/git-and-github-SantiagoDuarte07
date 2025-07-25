@@ -23,3 +23,5 @@ git add archivo.txt → Marcar un archivo para guardar
 git commit -m "Mensaje" → Guardar cambios con un mensaje
 
 git log → Ver el historial de commits
+
+![Foto codigo](Uso_consola2.jpg)
