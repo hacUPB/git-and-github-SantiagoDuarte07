@@ -1,7 +1,8 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SoiS0_7u)
 # Unidad No. 1 - Git y GitHub
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Santiago Duarte 
+Id.: 000570051 
 ---
 # Evaluación
 
@@ -12,6 +13,13 @@ El objetivo de esta actividad es crear y estructurar un proyecto de programació
 1. Uso de la consola para navegar entre directorios, crear directorios y archivos.
 2. Creación de repositorios locales usando comandos de Git.
 3. Creación de repositorio remoto en GitHub y sincronización con el repositorio local.
+
+# TABLA DE CONTENIDO
+- DOCS: 
+  1. [REPOSITORIO LOCAL](./docs/repositorio_local.md)
+  2. [REPOSITORIO REMOTO](./docs/repositorio_remoto.md)
+  3. [USO CONSOLA](./docs/uso_consola.md)
+
 
 **Instrucciones:**
 

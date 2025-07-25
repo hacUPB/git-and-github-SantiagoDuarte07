@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# Archivos de configuración de entorno
+.env
+*.env
+
+# Archivos de log
+*.log
+
+# Bases de datos locales
+*.sqlite3
+
+# Directorios de distribución
+build/
+dist/
+*.egg-info/
+
+# Archivos de tests y cobertura
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+htmlcov/
+
+# Archivos de herramientas de desarrollo
+.mypy_cache/
+.pytest_cache/
+.dmypy.json
+.pyre/
+.ipynb_checkpoints/
+
+# Configuración específica del editor o IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
