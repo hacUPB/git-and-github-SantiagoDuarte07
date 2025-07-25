@@ -24,4 +24,4 @@ git commit -m "Mensaje" → Guardar cambios con un mensaje
 
 git log → Ver el historial de commits
 
-![Foto codigo](Uso_consola2.jpg)
+![Foto codigo](../images/Uso_consola2.jpg)
